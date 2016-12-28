@@ -1,0 +1,6 @@
+c:\users\petar stanev\documents\visual studio 2015\Projects\SantaBlocks\SantaBlocks\bin\Debug\SantaBlocks.exe.config
+c:\users\petar stanev\documents\visual studio 2015\Projects\SantaBlocks\SantaBlocks\bin\Debug\SantaBlocks.exe
+c:\users\petar stanev\documents\visual studio 2015\Projects\SantaBlocks\SantaBlocks\bin\Debug\SantaBlocks.pdb
+c:\users\petar stanev\documents\visual studio 2015\Projects\SantaBlocks\SantaBlocks\obj\Debug\SantaBlocks.exe
+c:\users\petar stanev\documents\visual studio 2015\Projects\SantaBlocks\SantaBlocks\obj\Debug\SantaBlocks.pdb
+c:\users\petar stanev\documents\visual studio 2015\Projects\SantaBlocks\SantaBlocks\obj\Debug\SantaBlocks.csprojResolveAssemblyReference.cache
